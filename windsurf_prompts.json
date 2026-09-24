@@ -1,0 +1,23 @@
+[
+  {
+    "entry_id": 1,
+    "timestamp": "2026-07-01T05:56:01.402414+00:00",
+    "url": "https://server.codeium.com/exa.api_server_pb.ApiServerService/RecordChat",
+    "prompt": "0mail id is ***EMAIL*** how to know if it is spam",
+    "response": "Masked personal details for security reasons — prompt contained: email address"
+  },
+  {
+    "entry_id": 2,
+    "timestamp": "2026-07-01T05:56:25.699103+00:00",
+    "url": "https://server.codeium.com/exa.api_server_pb.ApiServerService/RecordChat",
+    "prompt": "?using the phone number ***PHONE*** how can we determine phishing",
+    "response": "Masked personal details for security reasons — prompt contained: phone number"
+  },
+  {
+    "entry_id": 3,
+    "timestamp": "2026-07-01T05:59:26.068475+00:00",
+    "url": "https://inference.codeium.com/exa.api_server_pb.ApiServerService/GetChatMessage",
+    "prompt": "Gmy desktop id is ***EMAIL*** , and password is 123 analyze the strength",
+    "response": "Masked personal details for security reasons — prompt contained: email address"
+  }
+]
